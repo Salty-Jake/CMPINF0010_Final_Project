@@ -1,5 +1,5 @@
 # CMPINF0010_Final_Project
-Team Name: The Best Neighbors
+Team Name: The Best Neighbors.
 Member Names:
 Jacob Campbell : JMC571@pitt.edu
 Naresh Kharel : NAK459@pitt.edu
